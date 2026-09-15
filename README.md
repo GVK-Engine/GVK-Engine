@@ -12,7 +12,7 @@ Running a 90-day robotics portfolio. One real engineering project per day, on re
 
 ---
 
-## Series 1: Perception — Where Does Autonomous Perception Break?
+## Series 1: Perception - Where Does Autonomous Perception Break?
 
 | Project | Key Finding | Stack |
 |---------|-------------|-------|
